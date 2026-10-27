@@ -15,7 +15,9 @@ Participé en proyectos presentados en **EVA (2024/2025)**, el evento más impor
 
 </details>
 
-[![BTS#](https://img.itch.zone/aW1nLzEzNTY3MjQ3LnBuZw==/315x250%23c/4EYfe8.png)](https://dreamxel-studio.itch.io/beyond-the-star)
+# 📁 Projects I've contributed to
+[![BTS](https://img.itch.zone/aW1nLzEzNTY3MjQ3LnBuZw==/315x250%23c/4EYfe8.png)](https://dreamxel-studio.itch.io/beyond-the-star)
+[![HTC](https://img.itch.zone/aW1nLzIzMzE2NDEwLnBuZw==/315x250%23c/6j0VL1.png)](https://y2kids.itch.io/hit-the-corn)
 
 # 💻 Skills & Tools
 
