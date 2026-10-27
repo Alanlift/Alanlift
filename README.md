@@ -16,15 +16,15 @@ Participé en proyectos presentados en **EVA (2024/2025)**, el evento más impor
 </details>
 
 # 📁 Projects I've contributed to
-[![BTS](https://img.itch.zone/aW1nLzEzNTY3MjQ3LnBuZw==/315x250%23c/4EYfe8.png)](https://dreamxel-studio.itch.io/beyond-the-star)
-[![HTC](https://img.itch.zone/aW1nLzIzMzE2NDEwLnBuZw==/315x250%23c/6j0VL1.png)](https://y2kids.itch.io/hit-the-corn)
+<a href="https://dreamxel-studio.itch.io/beyond-the-star" target="_blank">![BTS](https://img.itch.zone/aW1nLzEzNTY3MjQ3LnBuZw==/315x250%23c/4EYfe8.png)</a>
+<a href="https://y2kids.itch.io/hit-the-corn" target="_blank">![HTC](https://img.itch.zone/aW1nLzIzMzE2NDEwLnBuZw==/315x250%23c/6j0VL1.png)</a>
 
 # 💻 Skills & Tools
 
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](https://godotengine.org/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://alanlift.itch.io/)
-[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+<a href="https://microsoft.com" target="_blank">![C#](https://shields.io)</a>
+<a href="https://unity.com" target="_blank">![Unity](https://shields.io)</a>
+<a href="https://godotengine.org" target="_blank">![Godot Engine](https://shields.io)</a>
+<a href="https://git-scm.com" target="_blank">![Git](https://shields.io)</a>
+<a href="https://itch.io" target="_blank">![Itch.io](https://shields.io)</a>
+<a href="https://trello.com" target="_blank">![Trello](https://shields.io)</a>
+<a href="https://figma.com" target="_blank">![Figma](https://shields.io)</a>
