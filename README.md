@@ -15,10 +15,13 @@ Participé en proyectos presentados en **EVA (2024/2025)**, el evento más impor
 
 </details>
 
+[![BTS#](https://img.itch.zone/aW1nLzEzNTY3MjQ3LnBuZw==/315x250%23c/4EYfe8.png)](https://dreamxel-studio.itch.io/beyond-the-star)
+
 # 💻 Skills & Tools
 
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](https://godotengine.org/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://alanlift.itch.io/)
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/)
